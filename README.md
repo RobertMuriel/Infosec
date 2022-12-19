@@ -1,7 +1,8 @@
 # Infosec
 
+** Tools for pentesting **
 Robert Muriel           
--- Tools for pentesting --
 
 Pivoting
-+ NetScan.sh -> Bash Script for network scanning with PING from pivot machine
+- NetScan.sh -> Bash Script for network scanning with PING from pivot machine
+- PortScan.sh -> Bash Script for port scanning
