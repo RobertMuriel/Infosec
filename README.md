@@ -5,7 +5,7 @@
 # Infosec
 
 
-** Cyberseguridad, Seguridad de la Información, Privacidad, Proteccion de Datos Personales, Hacking, Pentesting **
+** Ciberseguridad, Seguridad de la Información, Privacidad, Proteccion de Datos Personales, Hacking, Pentesting **
 Robert Muriel           
 
 
