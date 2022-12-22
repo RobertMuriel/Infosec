@@ -1,11 +1,5 @@
-######* ░▒█▀▀▄░█░▒█░█▀▀▄░█▀▀▀░█▀▀░▄▀▀▄░█▀▀▄
-######* ▒▒█░▒█░█░▒█░█░▒█░█░▀▄░█▀▀░█░░█░█░▒█
-######* ░▒█▄▄█░░▀▀▀░▀░░▀░▀▀▀▀░▀▀▀░░▀▀░░▀░░▀
-
-* ░▒█▀▄▀█░█▀▀▄░█▀▀░▀█▀░█▀▀░█▀▀▄
-* ░▒█▒█▒█░█▄▄█░▀▀▄░░█░░█▀▀░█▄▄▀
-* ░▒█░░▒█░▀░░▀░▀▀▀░░▀░░▀▀▀░▀░▀▀
-
+![image](https://user-images.githubusercontent.com/116899445/209212423-c76f42f6-9025-426f-a6c7-79d71f52c9c8.png)
+                                                             
 # Infosec
 
 ** Ciberseguridad, Seguridad de la Información, Privacidad, Proteccion de Datos Personales, Hacking, Pentesting **
