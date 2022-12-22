@@ -1,6 +1,9 @@
 # Infosec
 
-** Tools for pentesting **
+** Mapas Mentales **
+- Fundamentos de Ciberseguridad
+
+** Herramientas para Pentesting **
 Robert Muriel           
 
 Pivoting
