@@ -7,20 +7,22 @@ Robert Muriel
 
 [Mapas_Mentales](Mapas_Mentales)
 
-- [HTML - Fundamentos_de_Ciberseguridad.mm.html](Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.mm.html)
+- [HTML - Fundamentos_de_Ciberseguridad.mm.html](https://htmlpreview.github.io/?Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.mm.html)
 - [PDF - Fundamentos_de_Ciberseguridad.pdf](Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.pdf)
 - [FreeMind - Ciberamenazas.mm](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.mm)
+
 - [HTML - Ciberamenazas.mm.html](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.mm.html)
 - [PDF - Ciberamenazas.pdf](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.pdf)
 - [FreeMind - Ciberamenazas.pdf](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.pdf)
 
-Notas Hacking - Pentesting
+[Notas Hacking - Pentesting](Notas%20Hacking%20-%20Pentesting)
+
 - [1.- Reconocimiento - Reconnaissance](Notas%20Hacking%20-%20Pentesting%2F1.-%20Reconocimiento%20-%20Reconnaissance)
 - [2.- Descubrimiento - Discovery](Notas%20Hacking%20-%20Pentesting%2F2.-%20Descubrimiento%20-%20Discovery)
 - [3.- Analisis de Vulnerbilidades - Vulnerability Assessment](Notas%20Hacking%20-%20Pentesting%2F3.-%20Analisis%20de%20Vulnerbilidades%20-%20Vulnerability%20Assessment)
 - [4.- Explotacion - Exploitation](Notas%20Hacking%20-%20Pentesting%2F4.-%20Explotacion%20-%20Exploitation)
 - [5.- Escalada de Privilegios - Privilege Escalation](Notas%20Hacking%20-%20Pentesting%2F5.-%20Escalada%20de%20Privilegios%20-%20Privilege%20Escalation)
 
-Pivoting
-- NetScan.sh -> Bash Script for network scanning with PING from pivot machine
-- PortScan.sh -> Bash Script for port scanning
+[Pivoting](Pivoting)
+- [NetScan.sh -> Bash Script for network scanning with PING from pivot machine](Pivoting%2FNetScan.sh)
+- [PortScan.sh -> Bash Script for port scanning](Pivoting%PortScan.sh)
