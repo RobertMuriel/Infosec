@@ -7,7 +7,7 @@ Robert Muriel
 
 Mapas_Mentales
 - [Fundamentos de Ciberseguridad](Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad)
-- [Notas Version HTML - Fundamentos_de_Ciberseguridad.html](Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.html)
+- [Notas Version HTML - Fundamentos_de_Ciberseguridad.html](https://htmlpreview.github.io/?https://github.com/RobertMuriel/Infosec/blob/main/Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.html)
 
 Notas Hacking - Pentesting
 - [1.- Reconocimiento - Reconnaissance](Notas%20Hacking%20-%20Pentesting%2F1.-%20Reconocimiento%20-%20Reconnaissance)
