@@ -24,5 +24,5 @@ Robert Muriel
 - [5.- Escalada de Privilegios - Privilege Escalation](Notas%20Hacking%20-%20Pentesting%2F5.-%20Escalada%20de%20Privilegios%20-%20Privilege%20Escalation)
 
 [Pivoting](Pivoting)
-- [NetScan.sh -> Bash Script for network scanning with PING from pivot machine](Pivoting%2FNetScan.sh)
-- [PortScan.sh -> Bash Script for port scanning](Pivoting%PortScan.sh)
+- [NetScan.sh -> Bash Script for network scanning with PING from pivot machine](Pivoting/NetScan.sh)
+- [PortScan.sh -> Bash Script for port scanning](Pivoting/PortScan.sh)
