@@ -5,13 +5,11 @@
 ** Ciberseguridad, Seguridad de la Información, Privacidad, Proteccion de Datos Personales, Hacking, Pentesting **
 Robert Muriel           
 
-Mapas_Mentales
-- [Mapas_Mentales](Mapas_Mentales)
+[Mapas_Mentales](Mapas_Mentales)
 
 - [HTML - Fundamentos_de_Ciberseguridad.mm.html](Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.mm.html)
 - [PDF - Fundamentos_de_Ciberseguridad.pdf](Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.pdf)
 - [FreeMind - Ciberamenazas.mm](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.mm)
-- 
 - [HTML - Ciberamenazas.mm.html](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.mm.html)
 - [PDF - Ciberamenazas.pdf](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.pdf)
 - [FreeMind - Ciberamenazas.pdf](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.pdf)
