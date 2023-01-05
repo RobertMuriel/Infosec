@@ -141,5 +141,67 @@
 </node>
 </node>
 </node>
+<node COLOR="#0033ff" CREATED="1672880146913" ID="ID_1912682101" MODIFIED="1672881726140" POSITION="left" TEXT="Tipos de Ciberamenazas - Clasificadas por la eleccion de victimas">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1672880173964" ID="ID_854353988" MODIFIED="1672880181394" TEXT="Ataques Oportunistas">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672880185213" ID="ID_1156353838" MODIFIED="1672880203883" TEXT="No son personales">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672880215627" ID="ID_1289487678" MODIFIED="1672880234706" TEXT="Solo se enfocan en el retorno de la inversion ROI">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672880239262" ID="ID_1687597227" MODIFIED="1672880246354" TEXT="Ataques a grande escala">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672880252726" ID="ID_1387481464" MODIFIED="1672880269902" TEXT="Altamente automatizados">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1672880274345" ID="ID_1209593426" MODIFIED="1672880342742" TEXT="Utilizan servidores malicioses para enviar SPAMy distribuir malware indiscriminadamente "/>
+<node COLOR="#111111" CREATED="1672880346071" ID="ID_1885842092" MODIFIED="1672880366676" TEXT="Utilizan grandes notnes para gestionar victimas "/>
+</node>
+<node COLOR="#990000" CREATED="1672880376937" ID="ID_1767308175" MODIFIED="1672880389053" TEXT="Generalmente son no persistentes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1672880459160" ID="ID_735891891" MODIFIED="1672880471110" TEXT="Ataques dirigidos">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672880495693" ID="ID_1482457922" MODIFIED="1672880510774" TEXT="Son muy personales">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672880514355" ID="ID_567567052" MODIFIED="1672880523948" TEXT="Son persistentess">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672880528725" ID="ID_1812007071" MODIFIED="1672880552232" TEXT="Son sigilosos">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672880557079" ID="ID_1866660779" MODIFIED="1672880567544" TEXT="Se centra en el control de la victima">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672880571286" ID="ID_985702964" MODIFIED="1672880585126" TEXT="Automatizados pero a menor escala">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1672880609302" ID="ID_1627834270" MODIFIED="1672880650598" POSITION="right" TEXT="Tipos de Ciberamenazas - Clasificadass por su Origen">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1672880652564" ID="ID_1363491356" MODIFIED="1672880659023" TEXT="Amenaza Externa">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672880664632" ID="ID_640795233" MODIFIED="1672880712900" TEXT="El atacante no tiene acceso a los sistemas y redes de la victima">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1672880754189" ID="ID_1249493591" MODIFIED="1672880760086" TEXT="Amenaza Interna">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672880762673" ID="ID_1911129693" MODIFIED="1672880800663" TEXT="El atacante ha autorizado el acceso a apgunas partes de los siatemas y redes de la victima">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
 </node>
 </map>
