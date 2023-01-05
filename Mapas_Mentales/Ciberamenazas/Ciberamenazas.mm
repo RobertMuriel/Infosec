@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1672667919080" ID="ID_836117993" MODIFIED="1672669643615" TEXT="Ciberamenazas">
+<node COLOR="#000000" CREATED="1672667919080" ID="ID_836117993" MODIFIED="1672869603031" TEXT="Ciberamenazas">
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <node BACKGROUND_COLOR="#cccccc" COLOR="#0033ff" CREATED="1672668331085" ID="ID_1298092295" MODIFIED="1672669643597" POSITION="left" TEXT="Actividades maliciosas que pueden da&#xf1;ar o interrumpir un sistema informattico, una red o la informaci&#xf3;n que contiene">
@@ -67,6 +67,76 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 <node COLOR="#990000" CREATED="1672669530328" ID="ID_452088930" MODIFIED="1672669643615" TEXT="Relacionado con terminos como &quot;APT&quot; y &quot;Malware patrocinado por estados&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1672869605462" ID="ID_1173011188" MODIFIED="1672870760404" POSITION="right" TEXT="Tipos de Ciberamenazas - Clasificadas por su Objetivo">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="full-2"/>
+<node COLOR="#00b439" CREATED="1672869686635" ID="ID_1467568294" MODIFIED="1672869692830" TEXT="Ciberespionaje">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672869782646" ID="ID_71286143" MODIFIED="1672869862904" TEXT="Motivos: Obtencion de IP&apos;s, secretos y datos personales">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672869817996" ID="ID_550751972" MODIFIED="1672870432996" TEXT="Objetivos: Gobiernos,empresasy  particulares ">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672869875011" ID="ID_1592516467" MODIFIED="1672869900657" TEXT="Agentes: Estados nacionales y empresas">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1672869695506" ID="ID_1528134104" MODIFIED="1672869699385" TEXT="Ciberdelito">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672869918503" ID="ID_1627918285" MODIFIED="1672869953974" TEXT="Motivos: Ganancia Econpmica">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672869961416" ID="ID_1069923225" MODIFIED="1672870423948" TEXT="Objetivos: Gobiernos,empresas y particulares ">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672870011343" ID="ID_1170749441" MODIFIED="1672870044158" TEXT="Agentes; Delincuencia Organizada y Grupos de Alquiler">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1672869703606" ID="ID_128955468" MODIFIED="1672870190211" TEXT="Ciberactivismo">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672870115712" ID="ID_319340935" MODIFIED="1672870146834" TEXT="Motivos: Cambio Politivp o Notoriedad">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672870195503" ID="ID_1761126210" MODIFIED="1672870223028" TEXT="Onjetivos: Gobiernos y empresas">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672870231159" ID="ID_689568056" MODIFIED="1672870283780" TEXT="Agentes; Grupos activistas">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1672869721849" ID="ID_203923324" MODIFIED="1672869731982" TEXT="Ciberterrorismo">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672870290313" ID="ID_1032666771" MODIFIED="1672870353333" TEXT="Motivos: Cambio politico o notoriedad">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672870367243" ID="ID_142783895" MODIFIED="1672870409968" TEXT="Objetivo; Gobiernos, empresas y particulares">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672870557214" ID="ID_1079263873" MODIFIED="1672870569381" TEXT="Agentes: Agrupaciones terroristas">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1672869740931" ID="ID_1415001643" MODIFIED="1672869749626" TEXT="Ciberguerra">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1672870573887" ID="ID_361435621" MODIFIED="1672870631320" TEXT="Motivo: Dominacion militar o politica">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672870656142" ID="ID_1442550756" MODIFIED="1672870685912" TEXT="Objetivo: Bienes politicos y militares">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1672870689795" ID="ID_1682595085" MODIFIED="1672870753117" TEXT="Agentes: Operacoones militares">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
