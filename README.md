@@ -8,7 +8,13 @@ Robert Muriel
 [Cheatsheets](Cheatsheets)
 
 - [DNS.jpg](Cheatsheets%2FDNS.jpg)
-- ![Linux Cron.jpg](Cheatsheets%2FLinux%20Cron.jpg)
+- [Linux Cron.jpg](Cheatsheets%2FLinux%20Cron.jpg)
+- [Linux Permissions.jpg](Cheatsheets%2FLinux%20Permissions.jpg)
+- [NMAP.jpg](Cheatsheets%2FNMAP.jpg)
+- [NMAP Scan Options.jpg](Cheatsheets%2FNMAP%20Scan%20Options.jpg)
+- [SQL 1 of 2.jpg](Cheatsheets%2FSQL%201%20of%202.jpg)
+- [SQL 2 of 2.jpg](Cheatsheets%2FSQL%202%20of%202.jpg)
+- [TCP-UDP Common Ports.jpg](Cheatsheets%2FTCP-UDP%20Common%20Ports.jpg)
 
 [Mapas Mentales](Mapas%20Mentales)
 
