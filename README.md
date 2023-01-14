@@ -18,13 +18,13 @@ Robert Muriel
 
 [Mapas Mentales](Mapas%20Mentales)
 
-- [HTML - Fundamentos_de_Ciberseguridad.mm.html](https://htmlpreview.github.io/?https://github.com/RobertMuriel/Infosec/blob/main/Mapas_Mentales/Fundamentos%20de%20Ciberseguridad/Fundamentos_de_Ciberseguridad.mm.html)
-- [PDF - Fundamentos_de_Ciberseguridad.pdf](Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.pdf)
-- [FreeMind - Ciberamenazas.mm](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.mm)
+- [HTML - Fundamentos_de_Ciberseguridad.mm.html](https://htmlpreview.github.io/?https://github.com/RobertMuriel/Infosec/blob/main/Mapas%20Mentales/Fundamentos%20de%20Ciberseguridad/Fundamentos_de_Ciberseguridad.mm.html)
+- [PDF - Fundamentos_de_Ciberseguridad.pdf](Mapas%20Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.pdf)
+- [FreeMind - Ciberamenazas.mm](Mapas%20Mentales%2FCiberamenazas%2FCiberamenazas.mm)
 
-- [HTML - Ciberamenazas.mm.html](https://htmlpreview.github.io/?https://github.com/RobertMuriel/Infosec/blob/main/Mapas_Mentales/Ciberamenazas/Ciberamenazas.mm.html)
-- [PDF - Ciberamenazas.pdf](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.pdf)
-- [FreeMind - Ciberamenazas.pdf](Mapas_Mentales%2FCiberamenazas%2FCiberamenazas.pdf)
+- [HTML - Ciberamenazas.mm.html](https://htmlpreview.github.io/?https://github.com/RobertMuriel/Infosec/blob/main/Mapas%20Mentales/Ciberamenazas/Ciberamenazas.mm.html)
+- [PDF - Ciberamenazas.pdf](Mapas%20Mentales%2FCiberamenazas%2FCiberamenazas.pdf)
+- [FreeMind - Ciberamenazas.pdf](Mapas%20Mentales%2FCiberamenazas%2FCiberamenazas.pdf)
 
 [Notas Hacking - Pentesting](Notas%20Hacking%20-%20Pentesting)
 
