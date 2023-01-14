@@ -5,7 +5,10 @@
 ** Ciberseguridad, Seguridad de la Información, Privacidad, Proteccion de Datos Personales, Hacking, Pentesting **
 Robert Muriel           
 
-[Mapas_Mentales](Mapas Mentales)
+[Cheatsheets](Cheatsheets)
+- ![Linux Permissions.jpg](Cheatsheets%2FLinux%20Permissions.jpg)
+
+[Mapas Mentales](Mapas%20Mentales)
 
 - [HTML - Fundamentos_de_Ciberseguridad.mm.html](https://htmlpreview.github.io/?https://github.com/RobertMuriel/Infosec/blob/main/Mapas_Mentales/Fundamentos%20de%20Ciberseguridad/Fundamentos_de_Ciberseguridad.mm.html)
 - [PDF - Fundamentos_de_Ciberseguridad.pdf](Mapas_Mentales%2FFundamentos%20de%20Ciberseguridad%2FFundamentos_de_Ciberseguridad.pdf)
