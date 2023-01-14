@@ -6,7 +6,9 @@
 Robert Muriel           
 
 [Cheatsheets](Cheatsheets)
-- ![Linux Permissions.jpg](Cheatsheets%2FLinux%20Permissions.jpg)
+
+- [DNS.jpg](Cheatsheets%2FDNS.jpg)
+- ![Linux Cron.jpg](Cheatsheets%2FLinux%20Cron.jpg)
 
 [Mapas Mentales](Mapas%20Mentales)
 
