@@ -15,6 +15,8 @@
 - [SQL 1 of 2.jpg](Cheatsheets%2FSQL%201%20of%202.jpg)
 - [SQL 2 of 2.jpg](Cheatsheets%2FSQL%202%20of%202.jpg)
 - [TCP-UDP Common Ports.jpg](Cheatsheets%2FTCP-UDP%20Common%20Ports.jpg)
+- [Search_Engines_for_Pentesters.jpg](Cheatsheets%2FSearch_Engines_for_Pentesters.jpg)
+- [SQL Injections.jpg](Cheatsheets%2FSQL%20Injections.jpg)
 
 
 [Mapas Mentales](Mapas%20Mentales)
