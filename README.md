@@ -5,18 +5,21 @@
 ** Ciberseguridad, Seguridad de la Información, Privacidad, Proteccion de Datos Personales, Hacking, Pentesting **
 #### Robert Muriel           
 
+
 [Cheatsheets](Cheatsheets)
 
-- [DNS.jpg](Cheatsheets%2FDNS.jpg)
-- [Linux Cron.jpg](Cheatsheets%2FLinux%20Cron.jpg)
 - [Linux Permissions.jpg](Cheatsheets%2FLinux%20Permissions.jpg)
-- [NMAP.jpg](Cheatsheets%2FNMAP.jpg)
-- [NMAP Scan Options.jpg](Cheatsheets%2FNMAP%20Scan%20Options.jpg)
-- [SQL 1 of 2.jpg](Cheatsheets%2FSQL%201%20of%202.jpg)
 - [SQL 2 of 2.jpg](Cheatsheets%2FSQL%202%20of%202.jpg)
-- [TCP-UDP Common Ports.jpg](Cheatsheets%2FTCP-UDP%20Common%20Ports.jpg)
-- [Search_Engines_for_Pentesters.jpg](Cheatsheets%2FSearch_Engines_for_Pentesters.jpg)
+- [Netcat.jpg](Cheatsheets%2FNetcat.jpg)
+- [NMAP Referencia Rapida.jpg](Cheatsheets%2FNMAP%20Referencia%20Rapida.jpg)
+- [SQL 1 of 2.jpg](Cheatsheets%2FSQL%201%20of%202.jpg)
+- [NMAP Opciones de escaneo.jpg](Cheatsheets%2FNMAP%20Opciones%20de%20escaneo.jpg)
 - [SQL Injections.jpg](Cheatsheets%2FSQL%20Injections.jpg)
+- [NMAP Parametros.jpg](Cheatsheets%2FNMAP%20Parametros.jpg)
+- [TCP-UDP Common Ports.jpg](Cheatsheets%2FTCP-UDP%20Common%20Ports.jpg)
+- [Linux Cron.jpg](Cheatsheets%2FLinux%20Cron.jpg)
+- [SSTI_Server_Side_Template_Injection.jpg](Cheatsheets%2FSSTI_Server_Side_Template_Injection.jpg)
+- [DNS.jpg](Cheatsheets%2FDNS.jpg)
 
 
 [Mapas Mentales](Mapas%20Mentales)
