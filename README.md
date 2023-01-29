@@ -6,22 +6,24 @@
 #### Robert Muriel           
 
 
+___________________________
 [Cheatsheets](Cheatsheets)
 
+- [DNS.jpg](Cheatsheets%2FDNS.jpg)
+- [Linux Cron.jpg](Cheatsheets%2FLinux%20Cron.jpg)
 - [Linux Permissions.jpg](Cheatsheets%2FLinux%20Permissions.jpg)
-- [SQL 2 of 2.jpg](Cheatsheets%2FSQL%202%20of%202.jpg)
 - [Netcat.jpg](Cheatsheets%2FNetcat.jpg)
+- [NMAP Opciones de escaneo.jpg](Cheatsheets%2FNMAP%20Opciones%20de%20escaneo.jpg)
+- [NMAP Parametros.jpg](Cheatsheets%2FNMAP%20Parametros.jpg)
 - [NMAP Referencia Rapida.jpg](Cheatsheets%2FNMAP%20Referencia%20Rapida.jpg)
 - [SQL 1 of 2.jpg](Cheatsheets%2FSQL%201%20of%202.jpg)
-- [NMAP Opciones de escaneo.jpg](Cheatsheets%2FNMAP%20Opciones%20de%20escaneo.jpg)
+- [SQL 2 of 2.jpg](Cheatsheets%2FSQL%202%20of%202.jpg)
 - [SQL Injections.jpg](Cheatsheets%2FSQL%20Injections.jpg)
-- [NMAP Parametros.jpg](Cheatsheets%2FNMAP%20Parametros.jpg)
-- [TCP-UDP Common Ports.jpg](Cheatsheets%2FTCP-UDP%20Common%20Ports.jpg)
-- [Linux Cron.jpg](Cheatsheets%2FLinux%20Cron.jpg)
 - [SSTI_Server_Side_Template_Injection.jpg](Cheatsheets%2FSSTI_Server_Side_Template_Injection.jpg)
-- [DNS.jpg](Cheatsheets%2FDNS.jpg)
+- [TCP-UDP Common Ports.jpg](Cheatsheets%2FTCP-UDP%20Common%20Ports.jpg)
 
 
+___________________________
 [Mapas Mentales](Mapas%20Mentales)
 
 ###### PDF
@@ -34,6 +36,8 @@
 - [Informe Tecnico Forense.mm.html](https://htmlpreview.github.io/?https://github.com/RobertMuriel/Infosec/blob/main/Mapas%20Mentales%2FInforme%20Tecnico%20Forense%2FInforme%20Tecnico%20Forense.mm.html)
 ###### [Fuentes - Free Mind](Mapas%20Mentales%2F)
 
+
+___________________________
 [Notas Hacking - Pentesting](Notas%20Hacking%20-%20Pentesting)
 
 - [1.- Reconocimiento.txt](Notas%20Hacking%20-%20Pentesting%2F1.-%20Reconocimiento%20-%20Reconnaissance%2FReconocimiento.txt)
@@ -44,6 +48,8 @@
 - [6.- Miscelanius.txt](Notas%20Hacking%20-%20Pentesting%2FMisc%2FMiscelanius.txt)
 
 
+___________________________
 [Pivoting](Pivoting)
+
 - [NetScan.sh -> Bash Script for network scanning with PING from pivot machine](Pivoting/NetScan.sh)
 - [PortScan.sh -> Bash Script for port scanning](Pivoting/PortScan.sh)
